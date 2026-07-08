@@ -1,7 +1,7 @@
 # Excel-International-Sales-Analysis
 Used a synthetic dataset from kaggle simulating international sales data. Used pivot tables and visualisations to: find most products sold for each region and product, find relationship between order priority and shipping speed, create a forecast of projected profits. 
 
-Data was cleaned in excel. I changed data types, created a new column of time to ship using shipping date and order date and refomratted order priority from letters to words for clearer reading.
+Data was cleaned in excel. I changed data types, created a new column of time to ship using shipping date and order date and reformatted order priority from letters to words for clearer reading.
 
 I used a pivot table and bar graph to show which items took longest to ship on average.
 <img width="1919" height="1034" alt="Image" src="https://github.com/user-attachments/assets/ba5196e6-ff62-441e-aa18-671387a4c6d2" />
